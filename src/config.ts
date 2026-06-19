@@ -20,11 +20,11 @@ export const siteConfig = {
       skills: ["Python", "PyNN & NEST", "MatPlotLib"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "AI Handwritten Digits Recognition",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A Java project which reads data from 8x8 greyscale images of handwritten digits and uses AI algorithms to learn and recognise what digit is in the image.",
+      link: "https://github.com/BenjaminZadorian/Handwritten-Digits-Recognition",
+      skills: ["Java"],
     },
     {
       name: "ExtensionKit",
