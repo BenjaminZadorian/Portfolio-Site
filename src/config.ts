@@ -2,15 +2,15 @@ export const siteConfig = {
   name: "Benjamin Zadorian",
   title: "Software Engineer",
   description: "Portfolio website of Benjamin Zadorian",
-  accentColor: "#9F2DE3",
+  accentColor: "#65E65C",
   social: {
     email: "zadorianben@protonmail.com",
     linkedin: "https://www.linkedin.com/in/benzadorian/",
     github: "https://github.com/BenjaminZadorian",
   },
   aboutMe:
-    "",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Ben Zadorian — I build software at the intersection of machine learning and systems programming. Spiking neural networks that model human cognition, full-stack apps deployed on AWS & Render.  Upper Second Class Honours, BSc Computer Science Computer Science graduate, Middlesex University.",
+  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "C/C++/C#", "Spiking Neural Networks", "AI/ML"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
