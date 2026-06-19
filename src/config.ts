@@ -13,11 +13,11 @@ export const siteConfig = {
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "C/C++/C#", "Spiking Neural Networks", "AI/ML"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "IAC Spiking Neural Network",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Using the PyNN & NEST libraries for Python, I worked on created a spiking neural network architecture that can replicate the conditions in the Rumelhart and McClelland Occlusion Experiment relating to WSE",
+      link: "https://github.com/BenjaminZadorian/IAC-Spiking-Neural-Network",
+      skills: ["Python", "PyNN & NEST", "MatPlotLib"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
