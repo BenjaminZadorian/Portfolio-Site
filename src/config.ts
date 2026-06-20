@@ -17,7 +17,7 @@ export const siteConfig = {
       description:
         "Using the PyNN & NEST libraries for Python, I worked on created a spiking neural network architecture that can replicate the conditions in the Rumelhart and McClelland Occlusion Experiment relating to WSE",
       link: "https://github.com/BenjaminZadorian/IAC-Spiking-Neural-Network",
-      skills: ["Python", "PyNN & NEST", "MatPlotLib", "Neuromorphic Design],
+      skills: ["Python", "PyNN & NEST", "MatPlotLib", "Neuromorphic Design"],
     },
     {
       name: "AI Handwritten Digits Recognition",
