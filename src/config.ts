@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/BenjaminZadorian",
   },
   aboutMe:
-    "Ben Zadorian — I build software at the intersection of machine learning and systems programming. Spiking neural networks that model human cognition, full-stack apps deployed on AWS & Render.  Upper Second Class Honours, BSc Computer Science Computer Science graduate, Middlesex University.",
+    "Ben Zadorian - I build software at the intersection of machine learning and systems programming. Spiking neural networks that model human cognition, full-stack apps deployed on AWS & Render.  Upper Second Class Honours, BSc Computer Science Computer Science graduate, Middlesex University.",
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "C/C++/C#", "Spiking Neural Networks", "AI/ML"],
   projects: [
     {
@@ -17,7 +17,7 @@ export const siteConfig = {
       description:
         "Using the PyNN & NEST libraries for Python, I worked on created a spiking neural network architecture that can replicate the conditions in the Rumelhart and McClelland Occlusion Experiment relating to WSE",
       link: "https://github.com/BenjaminZadorian/IAC-Spiking-Neural-Network",
-      skills: ["Python", "PyNN & NEST", "MatPlotLib"],
+      skills: ["Python", "PyNN & NEST", "MatPlotLib", "Neuromorphic Design],
     },
     {
       name: "AI Handwritten Digits Recognition",
@@ -27,12 +27,19 @@ export const siteConfig = {
       skills: ["Java"],
     },
     {
-      name: "ExtensionKit",
+      name: "After-School Activites Booking Site",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A template site for booking after-school activies designed as a university project.  Uses Node.js and MongoDB for the backend with the frontend created using Vue.js",
+      link: "https://github.com/BenjaminZadorian/Full-Stack-Booking-Site-Frontend",
+      skills: ["Vue.js", "Node.js", "AWS", "MongoDB"],
     },
+    {
+      name: "Verlet-Integration Rope Simulation",
+      description:
+        "A 2D physics simulation implementing verlet integration to simulate a rope tied between two physics bodies in the Godot 4.5 Engine",
+      link: "https://github.com/BenjaminZadorian/Verlet-Integration-Rope-Simulation",
+      skills: ["Godot", "GDScript", "Verlet Integration"]
+    }
   ],
   experience: [
     {
