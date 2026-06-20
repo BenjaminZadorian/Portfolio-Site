@@ -43,23 +43,22 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "BLCMods",
+      title: "Developer",
+      dateRange: "May 2023 - Jul 2023",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
+        "Developed a solo Unreal Engine modding project using Unreal Object Explorer to inspect and modify game assets.",
+        "Experimented with engine data structures and implementation workflows to create and test gameplay modifications.",
         "Mentored team of 5 junior developers",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "IEUK",
+      title: "Student Intern",
+      dateRange: "Jun 2025 - Jul 2025",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Took part in a Technology & Engineering programme focused on professional development, industry exposure, and career exploration.",
+        "Engaged with students, graduates, and senior leaders to build awareness of workplace expectations and opportunities in the sector.",
       ],
     },
     {
