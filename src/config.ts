@@ -61,16 +61,6 @@ export const siteConfig = {
         "Engaged with students, graduates, and senior leaders to build awareness of workplace expectations and opportunities in the sector.",
       ],
     },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
-    },
   ],
   education: [
     {
